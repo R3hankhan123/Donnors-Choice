@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555977304287",
+    "project_id": "donnor-s-choice-67b7d",
+    "storage_bucket": "donnor-s-choice-67b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555977304287:android:d4c06d9a32598eb317e16a",
+        "android_client_info": {
+          "package_name": "com.example.donnors_choice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555977304287-hlnldakcoje801ieq865n744631domdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClLp3OW6ssMM97POs4_akC4aOS9wVAPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555977304287-hlnldakcoje801ieq865n744631domdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
